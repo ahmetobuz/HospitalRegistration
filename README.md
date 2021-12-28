@@ -1,2 +1,1 @@
-# HospitalRegistration
-HospitalRegistration
+# Hospital-Registration-System
